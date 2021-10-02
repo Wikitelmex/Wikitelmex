@@ -17,10 +17,10 @@ Since, my father passed away, and in my home the economy was very bad, I noticed
 - 🌱 I’m currently at Microverse Program, developing every day in a collaborative environment 5 days at week, to reach a knowledge about collaborative developing teams, with people all around the world.
 
 ## 📫 How to reach me 
-  I'm from Mexico
-  +52 625 584 5675
-  wikitelmex@gmail.com
-  https://www.linkedin.com/in/alejandro-castillo-6849131a9/
+- I'm from Mexico
+- +52 625 584 5675
+- wikitelmex@gmail.com
+- https://www.linkedin.com/in/alejandro-castillo-6849131a9/
   
 
 <!---
