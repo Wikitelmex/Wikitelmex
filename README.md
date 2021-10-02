@@ -1,3 +1,6 @@
+## Available to hire?
+Yes, of course I'm currently available to hire, please keep reading this file, to know more about me, and to get my contact data. Feel free to contact me if you want to discuss more about my skills, my avability or any topic related.
+
 ## Who am I?
 👋 Hi, I’m Alex Castillo, 
 
