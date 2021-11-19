@@ -1,3 +1,6 @@
+![Recurso 2](https://user-images.githubusercontent.com/59240486/142671991-350a6dd1-dcec-4b8f-ae19-55f7efbfa9b0.png)
+
+
 ## Available to hire?
 Yes, of course, I'm currently available to hire, please keep reading this file, to know more about me, and to get my contact data. Feel free to contact me if you want to discuss more my skills, my availability or any topic related.
 
