@@ -1,11 +1,14 @@
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
+# Alex Castillo
+<table>
+  <tr >
+    <td>
       <img src="https://user-images.githubusercontent.com/59240486/142672971-8eaae868-6b36-442e-8c40-3a4d17ce7c97.png">
     </td>
-    <td style="border: none;">
-      Available to hire?
+    <td>
+      <h2>Available to hire?</h2>
+      <p>
        Yes, of course, I'm currently available to hire, please keep reading this file, to know more about me, and to get my contact data. Feel free to contact me if you want to discuss more my skills, my availability or any topic related.    
+      </p>
     </td>
   </tr>
 </table>
@@ -24,16 +27,47 @@ With my professional experience, even it’s not related to software development
 Since my father passed away, and in my home the economy was very bad, I noticed, that every resource is important, and every time I try to save resources, not only talking about the economic ones but also resources like time, effort, etc. but never losing focus on the main goal.
 </details>
 
-## What jobs/goals that I'm prospecting?
+<details><summary>Skills</summary>
+  <h2>My current skills</h2>
+  <table>
+    <tr>
+      <td><h3>Front-End</h3></td>
+      <td>
+        <p>JavaScritp</p>
+        <p>React</p>
+        <p>Redux</p>
+        <p>Html5</p>
+        <p>CSS3</p>
+      </td>
+    </tr>
+    <tr>
+      <td><h3>Back-End</h3></td>
+      <td>
+        <p>Ruby</p>
+        <p>Ruby on Rails</p>
+        <p>MySQL</p>
+        <p>MSSQL</p>
+        <p>SQL Management Studio</p>
+        <p>C#</p>
+        <p>ASP.Net core (MVC, API, Razor pages)</p>
+      </td>
+    </tr>
+  </table>
+</details> 
+
+<details><summary>What jobs/goals that I'm prospecting?</summary>
+<h2>What jobs/goals that I'm prospecting?</h2>
 - 👀 I’m a full-stack interested in developing with HTML, CSS, JS, Ruby, and RoR, however, I love to develop APIs with dotnet, and front-end with Angular.
 - 🌱 I’m currently at Microverse Program, developing every day in a collaborative environment 5 days a week, to reach knowledge about collaborative developing teams, with people all around the world.
+</details>
 
-## 📫 How to reach me 
-- I'm from Mexico
-- +52 614 539 2077
-- wikitelmex@gmail.com
-- https://www.linkedin.com/in/alejandro-castillo-6849131a9/
-  
+<details><summary>Contact me</summary>
+<h2>📫 How to reach me</h2>
+  <p>I'm from Mexico</p>
+  <p>+52 614 539 2077</p>
+  <p>wikitelmex@gmail.com</p>
+<p>https://www.linkedin.com/in/alejandro-castillo-6849131a9/</p>
+</details>
 <!---
 Wikitelmex/Wikitelmex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
