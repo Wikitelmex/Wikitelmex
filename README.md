@@ -83,12 +83,54 @@ Since my father passed away, and in my home the economy was very bad, I noticed,
 
 <details><summary>Professional Experience</summary>
 <h2>Professional Experience</h2>
-- 👀 I’m a full-stack interested in developing with HTML, CSS, JS, Ruby, and RoR, however, I love to develop APIs with dotnet, and front-end with Angular.
-- 🌱 I’m currently at Microverse Program, developing every day in a collaborative environment 5 days a week, to reach knowledge about collaborative developing teams, with people all around the world.
+  <table>
+    <tr>
+      <th>Company</th>
+      <th>From - To</th>
+      <th>Position</th>
+      <th>Activities</th>
+    </tr>
+    <tr>
+      <td>Microverse</td>
+      <td>August 2021 - Current</td>
+      <td>Bootcamp remote</td>
+      <td>
+        <p>Mentored junior web developers, providing technical support through code reviews.</p>
+        <p>Proposed improvements to code organization to improve code quality and overall performance.</p>
+        <p>Provided advice and tips on how to maintain motivation to maintain longevity in the program.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Freelancer</td>
+      <td>December 2006 - August 2021</td>
+      <td>Freelancer remote</td>
+      <td>
+        <p>Started to learn in Udemy, HTML, CSS, JS, C#, dotnet MVC, API (near January 2021).</p>
+        <p>Worked developing software, at local University, with degree systems they use (VB6, MSSQL, ADO).</p>
+        <p>Worked developing software, at local University, with Computer Laboratory systems they use (VB6, MSSQL, ADO).</p>
+      </td>
+    </tr>
+    <tr>
+      <td>TELMEX</td>
+      <td>December 2006 - Current</td>
+      <td>Telecommunications Technician</td>
+      <td>
+        <p>Work with <a href="https://es.wikipedia.org/wiki/GPON">GPON</a> equipment, giving them preventive and corrective mantainance.</p>
+        <p>Work with <a href="https://www.emerson.com/documents/automation/product-data-sheet-industrial-power-supplies-emerson-en-7180716.pdf">Direct Current Idustrial Power Supplies</a> equipment, giving them preventive and corrective mantainance.</p>
+        <p>Work with <a href="https://en.wikipedia.org/wiki/AXE_telephone_exchange#:~:text=The%20AXE%20telephone%20exchange%20is,subsidiary%20of%20Ericsson%20and%20Televerket.&text=The%20brain%20of%20the%20AXE,dual%20processor%20system%20called%20APZ.">Conmuted telephone exchange</a> equipment, giving them preventive and corrective mantainance.</p>
+      </td>
+    </tr>
+  </table>
 </details>
 
 <details><summary>Education</summary>
 <h2>Education</h2>
+- 👀 I’m a full-stack interested in developing with HTML, CSS, JS, Ruby, and RoR, however, I love to develop APIs with dotnet, and front-end with Angular.
+- 🌱 I’m currently at Microverse Program, developing every day in a collaborative environment 5 days a week, to reach knowledge about collaborative developing teams, with people all around the world.
+</details>
+
+<details><summary>Protfolio</summary>
+<h2>Portfolio</h2>
 - 👀 I’m a full-stack interested in developing with HTML, CSS, JS, Ruby, and RoR, however, I love to develop APIs with dotnet, and front-end with Angular.
 - 🌱 I’m currently at Microverse Program, developing every day in a collaborative environment 5 days a week, to reach knowledge about collaborative developing teams, with people all around the world.
 </details>
