@@ -1,5 +1,5 @@
 <table style="border: none;">
-  <tr>
+  <tr style="border: none;">
     <td>
       <img src="https://user-images.githubusercontent.com/59240486/142672971-8eaae868-6b36-442e-8c40-3a4d17ce7c97.png">
     </td>
