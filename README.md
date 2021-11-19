@@ -20,7 +20,7 @@ Since my father passed away, and in my home the economy was very bad, I noticed,
 
 ## 📫 How to reach me 
 - I'm from Mexico
-- +52 625 584 5675
+- +52 614 539 2077
 - wikitelmex@gmail.com
 - https://www.linkedin.com/in/alejandro-castillo-6849131a9/
   
