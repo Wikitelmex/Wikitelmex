@@ -1,5 +1,15 @@
-## Available to hire?
-![LogoAlex](https://user-images.githubusercontent.com/59240486/142672971-8eaae868-6b36-442e-8c40-3a4d17ce7c97.png) Yes, of course, I'm currently available to hire, please keep reading this file, to know more about me, and to get my contact data. Feel free to contact me if you want to discuss more my skills, my availability or any topic related.
+<table>
+  <tr>
+    <td>
+      ![LogoAlex](https://user-images.githubusercontent.com/59240486/142672971-8eaae868-6b36-442e-8c40-3a4d17ce7c97.png)
+    </td>
+    <td>
+      Available to hire?
+       Yes, of course, I'm currently available to hire, please keep reading this file, to know more about me, and to get my contact data. Feel free to contact me if you want to discuss more my skills, my availability or any topic related.    
+    </td>
+  </tr>
+</table>
+
 
 <details><summary>Who am I?</summary>
   <h2>Who am I?</h2>
