@@ -1,6 +1,7 @@
 ## Available to hire?
 ![LogoAlex](https://user-images.githubusercontent.com/59240486/142672971-8eaae868-6b36-442e-8c40-3a4d17ce7c97.png) Yes, of course, I'm currently available to hire, please keep reading this file, to know more about me, and to get my contact data. Feel free to contact me if you want to discuss more my skills, my availability or any topic related.
 
+<details><summary>Who am I</summary>
 ## Who am I?
 👋 Hi, I’m Alex Castillo, 
 
@@ -11,6 +12,7 @@ Just started the Miccroverse program, I notice the importance of learning and ad
 With my professional experience, even it’s not related to software development, I learned to lead collaborative teams, to achieve goals, until keeping constant learning to myself and all the team's members.
 
 Since my father passed away, and in my home the economy was very bad, I noticed, that every resource is important, and every time I try to save resources, not only talking about the economic ones but also resources like time, effort, etc. but never losing focus on the main goal.
+</details>
 
 ## What jobs/goals that I'm prospecting?
 - 👀 I’m a full-stack interested in developing with HTML, CSS, JS, Ruby, and RoR, however, I love to develop APIs with dotnet, and front-end with Angular.
