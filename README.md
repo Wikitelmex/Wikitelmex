@@ -1,4 +1,4 @@
-# Alex Castillo
+# Alex Castillo (Full-Stack web developer)
 <table>
   <tr >
     <td>
@@ -12,6 +12,8 @@
     </td>
   </tr>
 </table>
+<hr />
+<h2>Select a topic</h2>
 
 
 <details><summary>Who am I?</summary>
@@ -52,22 +54,51 @@ Since my father passed away, and in my home the economy was very bad, I noticed,
         <p>ASP.Net core (MVC, API, Razor pages)</p>
       </td>
     </tr>
+    <tr>
+      <td><h3>Tools & Methods</h3></td>
+      <td>
+        <p>Git</p>
+        <p>GitHub</p>
+        <p>Heroku</p>
+        <p>Mobile/Responsive Development</p>
+        <p>Chrome Dev Tools</p>
+      </td>
+    </tr>
+    <tr>
+      <td><h3>Professional</h3></td>
+      <td>
+        <p>Remote Pair-Programming</p>
+        <p>Teamwork</p>
+        <p>Mentoring</p>
+      </td>
+    </tr>
   </table>
 </details> 
 
 <details><summary>What jobs/goals that I'm prospecting?</summary>
 <h2>What jobs/goals that I'm prospecting?</h2>
+<p>👀 I’m a full-stack interested in developing with HTML, CSS, JS, Ruby, and RoR, however, I love to develop APIs with dotnet, and front-end with Angular.</p>
+<p>🌱 I’m currently at Microverse Program, developing every day in a collaborative environment 5 days a week, to reach knowledge about collaborative developing teams, with people all around the world.</p>
+</details>
+
+<details><summary>Professional Experience</summary>
+<h2>Professional Experience</h2>
 - 👀 I’m a full-stack interested in developing with HTML, CSS, JS, Ruby, and RoR, however, I love to develop APIs with dotnet, and front-end with Angular.
 - 🌱 I’m currently at Microverse Program, developing every day in a collaborative environment 5 days a week, to reach knowledge about collaborative developing teams, with people all around the world.
 </details>
 
-<details><summary>Contact me</summary>
+<details><summary>Education</summary>
+<h2>Education</h2>
+- 👀 I’m a full-stack interested in developing with HTML, CSS, JS, Ruby, and RoR, however, I love to develop APIs with dotnet, and front-end with Angular.
+- 🌱 I’m currently at Microverse Program, developing every day in a collaborative environment 5 days a week, to reach knowledge about collaborative developing teams, with people all around the world.
+</details>
+
+<hr />
 <h2>📫 How to reach me</h2>
   <p>I'm from Mexico</p>
   <p>+52 614 539 2077</p>
   <p>wikitelmex@gmail.com</p>
 <p>https://www.linkedin.com/in/alejandro-castillo-6849131a9/</p>
-</details>
 <!---
 Wikitelmex/Wikitelmex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
