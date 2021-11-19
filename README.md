@@ -1,7 +1,7 @@
 ## Available to hire?
 ![LogoAlex](https://user-images.githubusercontent.com/59240486/142672971-8eaae868-6b36-442e-8c40-3a4d17ce7c97.png) Yes, of course, I'm currently available to hire, please keep reading this file, to know more about me, and to get my contact data. Feel free to contact me if you want to discuss more my skills, my availability or any topic related.
 
-<details><summary><h2>Who am I</h2></summary>
+<details><summary><span><h2>Who am I</h2></span></summary>
 👋 Hi, I’m Alex Castillo, 
 
 I know how to work, learning fast new tools and paradigms collaboratively, using all the experience I gained through life experiences, and of course coding every day at Microverse, with a high amount of other developers around the world. Complying with the deadlines.
