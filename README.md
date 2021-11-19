@@ -125,14 +125,79 @@ Since my father passed away, and in my home the economy was very bad, I noticed,
 
 <details><summary>Education</summary>
 <h2>Education</h2>
-- 👀 I’m a full-stack interested in developing with HTML, CSS, JS, Ruby, and RoR, however, I love to develop APIs with dotnet, and front-end with Angular.
-- 🌱 I’m currently at Microverse Program, developing every day in a collaborative environment 5 days a week, to reach knowledge about collaborative developing teams, with people all around the world.
+  <table>
+    <tr>
+      <th>School</th>
+      <th>From - To</th>
+      <th>Degree/program</th>
+      <th>Activities</th>
+    </tr>
+    <tr>
+      <td>Microverse</td>
+      <td>August 2021 - Current</td>
+      <td>Remote Full Stack Web Development Program</td>
+      <td>
+      <p>Spent 1300+ hours mastering algorithms, data structures, and full-stack development while simultaneously developing projects with Ruby, Rails, JavaScript, React, and Redux.</p>
+      <p>Developed skills in remote pair-programming using GitHub, industry-standard gitflow, and daily standups to communicate and collaborate with international remote developers.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Udemy</td>
+      <td>November 2020 - August 2021</td>
+      <td>Web Developer (I was windows developer)</td>
+      <td>
+        <p>Relearn Visual Studio, with the new .Net technologies, like dotnet MVC, API, razor pages with C#.</p>
+        <p>Learn Angular, and how to consume APIs.</p>
+        <p>Basics of web and html.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>INSTITUTO TECNOLOGICO DE CIUDAD CUAUHTEMOC</td>
+      <td>August 2001 - August 2006</td>
+      <td>Systems Engineer</td>
+      <td>
+        <p>Design Computer Lab management system, and started to develop it leading a team.</p>
+        <p>Participation in the national contest of programing in Celaya, obtaining 6th place.</p>
+        <p>Participation in Local contest of programing in ITCC, obtaining 1st place.</p>
+      </td>
+    </tr>
+  </table>
 </details>
 
-<details><summary>Protfolio</summary>
+<details><summary>Portfolio</summary>
 <h2>Portfolio</h2>
-- 👀 I’m a full-stack interested in developing with HTML, CSS, JS, Ruby, and RoR, however, I love to develop APIs with dotnet, and front-end with Angular.
-- 🌱 I’m currently at Microverse Program, developing every day in a collaborative environment 5 days a week, to reach knowledge about collaborative developing teams, with people all around the world.
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Technologies</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td><a _blank href="https://wikitelmex.github.io/Leaderboard/">Leader Board</a></td>
+      <td>Html, CSS, Bootstrap, Javascript Vanilla</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="url">Text</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="url">Text</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="url">Text</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="url">Text</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
 </details>
 
 <hr />
