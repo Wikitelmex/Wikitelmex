@@ -1,9 +1,9 @@
 <table style="border: none;">
   <tr style="border: none;">
-    <td>
+    <td style="border: none;">
       <img src="https://user-images.githubusercontent.com/59240486/142672971-8eaae868-6b36-442e-8c40-3a4d17ce7c97.png">
     </td>
-    <td>
+    <td style="border: none;">
       Available to hire?
        Yes, of course, I'm currently available to hire, please keep reading this file, to know more about me, and to get my contact data. Feel free to contact me if you want to discuss more my skills, my availability or any topic related.    
     </td>
