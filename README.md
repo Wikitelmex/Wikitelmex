@@ -201,7 +201,7 @@ Since my father passed away, and in my home the economy was very bad, I noticed,
     </tr>
     <tr>
       <td>
-        <a _blank href="https://wikitelmex.github.io/Calculator">Calculator</a> -
+        <a _blank href="https://wikitelmex.github.io/math-magicians/">Calculator</a> -
         <a _blank href="https://github.com/Wikitelmex/math-magicians">Repo</a> 
       </td>
       <td>
