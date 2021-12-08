@@ -166,36 +166,92 @@ Since my father passed away, and in my home the economy was very bad, I noticed,
 
 <details><summary>Portfolio</summary>
 <h2>Portfolio</h2>
+  
   <table>
     <tr>
-      <th>Project</th>
-      <th>Technologies</th>
+      <th>Demo link - Repo Link</th>      
       <th>Description</th>
     </tr>
     <tr>
-      <td><a _blank href="https://wikitelmex.github.io/Leaderboard/">Leader Board</a></td>
-      <td>Html, CSS, Bootstrap, Javascript Vanilla</td>
-      <td></td>
+      <td>
+        <a _blank href="https://capstone-react-wikitelmex.herokuapp.com/">Covid Current Data</a> -
+        <a _blank href="https://github.com/Wikitelmex/capstone-react">Repo</a> 
+      </td>
+      <td>
+        React, Bootstrap, Axios. I loved this project, it makes an initial Global Covid Fetch data to an API, and when you click every country, it makes a new API fetch to retrieve the specific country Data.
+      </td>
     </tr>
     <tr>
-      <td><a href="url">Text</a></td>
-      <td></td>
-      <td></td>
+      <td>
+        <a _blank href="https://wikitelmex.github.io/Leaderboard/">Leader Board</a> -
+        <a _blank href="https://github.com/Wikitelmex/Leaderboard">Repo</a> 
+      </td>
+      <td>
+        Html, CSS, Bootstrap, Javascript Vanilla, Axios. This project makes an API where CRUD data from the server using Axios, I loved to to this project, because I explore a lot about consuming API and giving style with bootstrap.
+      </td>
+    </tr>   
+    <tr>
+      <td>
+        <a _blank href="https://wikitelmex.github.io/space2/">Space X</a> -
+        <a _blank href="https://github.com/Wikitelmex/space2">Repo</a> 
+      </td>
+      <td>
+        React, Bootstrap, Axios. This project was make with team work collaborating with Abel Lavieri, we make code reviews from each other, to maximize the quality of the code, This App consumes an API, that fetch data from Space X missions and Rockets.
+      </td>
     </tr>
     <tr>
-      <td><a href="url">Text</a></td>
-      <td></td>
-      <td></td>
+      <td>
+        <a _blank href="https://wikitelmex.github.io/Calculator">Calculator</a> -
+        <a _blank href="https://github.com/Wikitelmex/math-magicians">Repo</a> 
+      </td>
+      <td>
+        React, Bootstrap. This was my first React SPA, it contains a totally functional Calculator.
+      </td>
     </tr>
     <tr>
-      <td><a href="url">Text</a></td>
-      <td></td>
-      <td></td>
+      <td>
+        <a _blank href="https://wikitelmex.github.io/BreakingBad/">Breaking Bad App</a> -
+        <a _blank href="https://github.com/Wikitelmex/BreakingBad">Repo</a> 
+      </td>
+      <td>
+        HTML, CSS, Bootstrap, JS Vanilla, Axios. This was a collaboratelly project, made with my Friend Nacho Sala in a remote environment. It was pretty cool work with him, we used a pseudo JS framework that I made to save a lot of time making it.
+      </td>
     </tr>
     <tr>
-      <td><a href="url">Text</a></td>
-      <td></td>
-      <td></td>
+      <td>
+        <a _blank href="https://wikitelmex.github.io/ToDoProject/">To DO App</a> -
+        <a _blank href="https://github.com/Wikitelmex/ToDoProject">Repo</a> 
+      </td>
+      <td>
+        HTML, CSS, Bootstrap, JS Vanilla, Local Storage. I aplied all my knowings in Javascript Vanilla, Css and bootstrap, using Classes, Events, LocalStorage to can make a totally functional To Do app.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a _blank href="https://wikitelmex.github.io/awesome-books/">Book Storage App</a> -
+        <a _blank href="https://github.com/Wikitelmex/awesome-books">Repo</a> 
+      </td>
+      <td>
+        HTML, CSS, Bootstrap, JS Vanilla, Local Storage. This App is an SPA, created totally with JS vanilla, Html and CSS, I learned a lot about Bootstrap here, to save time styling.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a _blank href="https://wikitelmex.github.io/capstone-module1/index.html">Global Summit App</a> -
+        <a _blank href="https://github.com/Wikitelmex/capstone-module1">Repo</a> 
+      </td>
+      <td>
+        HTML, CSS, Bootstrap, JS Vanilla. In this Project, I must to follow the design guides from a template, to fit it style, also the "Feature Speakers Cards" where generated Dinamically with JS.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a _blank href="https://wikitelmex.github.io/Portfolio/">HTML Portfolio</a> -
+        <a _blank href="https://github.com/Wikitelmex/Portfolio">Repo</a> 
+      </td>
+      <td>
+        HTML, CSS. In this Project, I must to follow the design guides from a Figma template, with a High standards in sight from the code reviewers. Also, is responsive CSS, taking mobile First aproach.
+      </td>
     </tr>
   </table>
 </details>
