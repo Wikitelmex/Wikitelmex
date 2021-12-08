@@ -165,7 +165,7 @@ Since my father passed away, and in my home the economy was very bad, I noticed,
 </details>
 
 <details><summary>Portfolio</summary>
-<h2>Portfolio</h2>
+<h2>Portfolio Front-end</h2>
   
   <table>
     <tr>
@@ -254,6 +254,9 @@ Since my father passed away, and in my home the economy was very bad, I noticed,
       </td>
     </tr>
   </table>
+  
+  <h2>Portfolio Back-end</h2>
+  <p>Coming soon Ruby on Rails and C# dotnet Backend projects</p>
 </details>
 
 <hr />
