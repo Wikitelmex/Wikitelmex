@@ -25,8 +25,6 @@ I know how to work, learning fast new tools and paradigms collaboratively, using
 Just started the Miccroverse program, I notice the importance of learning and adapting to new languages and developing paradigms, and that allow me to create a lot of capstone projects in Javascript, HTML, CSS, and some frameworks related to that.
 
 With my professional experience, even it’s not related to software development, I learned to lead collaborative teams, to achieve goals, until keeping constant learning to myself and all the team's members.
-
-Since my father passed away, and in my home the economy was very bad, I noticed, that every resource is important, and every time I try to save resources, not only talking about the economic ones but also resources like time, effort, etc. but never losing focus on the main goal.
 </details>
 
 <details><summary>Skills</summary>
